@@ -1,0 +1,4 @@
+.frase-cortazar {
+    display: flex;
+    flex-flow: column-reverse wrap;
+}
